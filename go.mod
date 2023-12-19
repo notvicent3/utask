@@ -33,7 +33,7 @@ require (
 	github.com/tidwall/gjson v1.9.3
 	github.com/wI2L/fizz v0.17.0
 	github.com/ybriffa/go-http-digest-auth-client v0.6.3
-	golang.org/x/crypto v0.9.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/net v0.10.0
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
 	gopkg.in/mail.v2 v2.3.1
@@ -112,8 +112,8 @@ require (
 	github.com/ugorji/go/codec v1.2.11 // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/sys v0.8.0 // indirect
-	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
